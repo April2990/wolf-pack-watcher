@@ -27,6 +27,14 @@ bash <(curl -Ls https://raw.githubusercontent.com/F4RAN/wolf-pack-watcher/master
 bash <(curl -Ls https://raw.githubusercontent.com/F4RAN/wolf-pack-watcher/master/install-full.sh)
 ```
 
+## Tech Stack
+- Backend: Python3
+- Frontend: Telegram Bot
+- Storage: MongoDB
+- Infra: Docker
+
+
+
 ## Supported protocols:
 - ✅ VLESS ( REALITY )
 - 🕙 TROJAN ( SOON )
